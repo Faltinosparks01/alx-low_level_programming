@@ -3,6 +3,7 @@
 /**
  * print_line - print a straight line using '-'
  * @n: the number of '-'
+ * Return: 0
  */
 
 void print_line(int n)
